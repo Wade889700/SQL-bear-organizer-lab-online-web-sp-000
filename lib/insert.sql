@@ -5,4 +5,4 @@ INSERT INTO bears (id, name, age, gender, color, temperament,alive ) VALUES ('Se
 INSERT INTO bears (id, name, age, gender, color, temperament,alive ) VALUES ('Melissa', 3, 'Scottish Fold');
 INSERT INTO bears (id, name, age, gender, color, temperament,alive ) VALUES ('Grinch', 3, 'Scottish Fold');
 INSERT INTO bears (id, name, age, gender, color, temperament,alive ) VALUES ('Wendy', 3, 'Scottish Fold');
-INSERT INTO bears (id, name, age, gender, color, temperament,alive ) VALUES (,NULL, 3, 'Scottish Fold');
+INSERT INTO bears (id, name, age, gender, color, temperament,alive ) VALUES (NULL, 3, 'Scottish Fold');
